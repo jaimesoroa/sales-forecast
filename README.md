@@ -1,1 +1,1 @@
-# Initiate sales forecast project
+# Sales forecast project
